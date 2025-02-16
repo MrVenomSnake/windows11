@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InputSwitch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/archive/InputSwitch.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
